@@ -12,3 +12,8 @@ ini adalah contoh dari tag paragraf dengan penjelasan kode tag (p) berfungsi unt
 ![menambahkan_heading](img/Heading.png)
 
 Heading adalah judul artikel, (h1) adalah heading atau judul terbesar sementara (h6) yang kecil heading biasa digunakan untuk judul dan standar nya adalah (h1) atau (h2)
+
+**Teks Format**
+![menambahkan_teksformat](img/teks_format.png)
+
+Teks format yaitu teks yang diberi gaya atau atribute seperti (span) untuk memberi gaya atau warna pada kalimat dan bold atau cetak tebal (b) sebagai contoh code dan italic (i) yaitu cetak miring dan untuk teks garis bawah yaitu dengan code (u).
