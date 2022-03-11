@@ -17,3 +17,8 @@ Heading adalah judul artikel, (h1) adalah heading atau judul terbesar sementara 
 ![menambahkan_teksformat](img/teks_format.png)
 
 Teks format yaitu teks yang diberi gaya atau atribute seperti (span) untuk memberi gaya atau warna pada kalimat dan bold atau cetak tebal (b) sebagai contoh code dan italic (i) yaitu cetak miring dan untuk teks garis bawah yaitu dengan code (u).
+
+**Menambahkan Gambar**
+![menambahkan_gambar](img/menambahkan_gambar.png)
+
+untuk menambahkan gambar code atau tag yang digunkan yaitu tag (img) simpan foto dalam folder yang dibuat sebelum nya agar sesuai dan terbaca dalam hasil nya dalam bentuk src atau source
