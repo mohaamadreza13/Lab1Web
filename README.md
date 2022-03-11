@@ -22,3 +22,8 @@ Teks format yaitu teks yang diberi gaya atau atribute seperti (span) untuk membe
 ![menambahkan_gambar](img/menambahkan_gambar.png)
 
 untuk menambahkan gambar code atau tag yang digunkan yaitu tag (img) simpan foto dalam folder yang dibuat sebelum nya agar sesuai dan terbaca dalam hasil nya dalam bentuk src atau source
+
+**Menambahkan Link Navigasi**
+![menambahkan_linknavigasi](img/menambahkan_linknavigasi.png)
+
+Yang terakhir adalah bagaimana kita menambahkan link untuk internal dan eskternal di html dengan menggunakan tag (a herf) pada code itu kita bisa menaruh kemana saja link kita
